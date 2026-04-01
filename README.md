@@ -23,3 +23,5 @@ npm create vite@latest stockflow -- --template react # crea carpeta proyecto
 npm install # instala librería npm
 
 npm run dev  # levanta proyecto en http://localhost:5173/
+
+# En vercel https://mine-cost-react.vercel.app/
